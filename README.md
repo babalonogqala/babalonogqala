@@ -1,11 +1,8 @@
 # Hi there, I'm Babalo 👋
 # 📊 GitHub Stats:# 
 <img  src="https://github-readme-stats.vercel.app/api?username=babalonogqala&show_icons=true&theme=radical">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babalonogqala&layout=compact">
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babalonogqala&layout=compact">
 
-# 🔝 Top Contributed Repo:
-
-![](https://github-contributor-stats.vercel.app/api?username=babalonogqala&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 # 💻 Tech Stack:
