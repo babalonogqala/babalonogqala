@@ -1,6 +1,6 @@
 # Hi there, I'm Babalo 👋
 # 📊 GitHub Stats:# 
-<img  src="https://github-readme-stats.vercel.app/api?username=babalonogqala&show_icons=true&theme=radical">
+
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babalonogqala&layout=compact">
 
 
